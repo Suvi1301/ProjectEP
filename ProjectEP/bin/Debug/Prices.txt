@@ -1,0 +1,1 @@
+﻿Class A / Mini•10¦Class B / Economy•18¦Class C / Small Compact•20¦Class D / Large Compact•22¦Class E / Intermediate•25¦Class F / Standard•28¦MPV•32¦Small Premium•30¦Medium Premium•32¦Small 4X4•35¦Large 4X4•38¦Minibus 9 seats•20¦Mini Van•22¦Medium Van•25¦Large Van•30¦Fine•15¦
